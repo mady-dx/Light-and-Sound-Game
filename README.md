@@ -39,7 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-! https://github.com/mady-dx/Light-and-Sound-Game/blob/main/LightAndSoundGame_Walkthrough.gif
+
+<img src='https://github.com/mady-dx/Light-and-Sound-Game/blob/main/LightAndSoundGame_Walkthrough.gif' title='Light and Sound Game' width='' alt='Video Walkthrough' /> 
 
 
 ## Reflection Questions
